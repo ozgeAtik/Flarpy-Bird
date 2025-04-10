@@ -1,0 +1,56 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# ============ #
+# Auto Updater #
+# ============ #
+Updater/
+
+# ==================== #
+# Visual Studio / JetBrains #
+# ==================== #
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# ================= #
+# OS-specific junk  #
+# ================= #
+.DS_Store
+Thumbs.db
+
+# =============== #
+# Build artifacts #
+# =============== #
+*.apk
+*.aab
+*.xcarchive
+
+# ========== #
+# Git Files #
+# ========== #
+*.orig
